@@ -1,0 +1,27 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "clone of San Diego County Credit Union Layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unachoza/San-Diego-Credit-Union-Clone.git"
+  },
+  "keywords": [
+    "layout",
+    "scss"
+  ],
+  "author": "Arianna Choza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unachoza/San-Diego-Credit-Union-Clone/issues"
+  },
+  "homepage": "https://github.com/unachoza/San-Diego-Credit-Union-Clone#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^4.13.1"
+  }
+}
